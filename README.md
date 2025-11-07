@@ -22,7 +22,7 @@ All data is stored persistently using `UserDefaults`.
 
 ---
 
-## 📸 Screenshots
+
 
 ## 📸 Screenshots
 
